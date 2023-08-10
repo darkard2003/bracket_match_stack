@@ -1,0 +1,18 @@
+Bracket test
+
+{
+	Bracket that matches
+}
+
+{
+[
+( this are some matching brackets)
+]
+}
+
+{
+	(
+		[
+		bracket mismatch
+	)
+}

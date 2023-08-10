@@ -1,0 +1,19 @@
+Bracket test for balanced file
+
+{
+	[
+		some text
+	]
+	again some test
+
+	(
+		balanced bracket
+		((()))
+	)
+
+	{{{{}}}}
+
+	{
+		every bracket is balanced
+	}
+}
